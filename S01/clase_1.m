@@ -1,4 +1,4 @@
-% Ejemplo de if
+%% Ejemplo de if
 clc
 A = [3 4 ; 1 2];
 B = [1 7 4]';
@@ -12,7 +12,7 @@ else
     disp("No existe el producto")
 end
 
-% Ejemplo de for
+%% Ejemplo de for
 
 n = 3;
 A = [3 2 ; 1 -1];
